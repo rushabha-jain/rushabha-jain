@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rushabha-jain
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CircleCI
+- 🌱 I’m currently learning AWS EBS, CircleCI
 - 📫 How to reach me rushabhajain44@gmail.com
 
 <!---
